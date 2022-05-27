@@ -46,7 +46,7 @@ header{
     position: absolute;
     left: 5%;
     top:10%;
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
     font-size: 19px;
     
 }
@@ -56,13 +56,13 @@ header{
     position: absolute;
     left: 5%;
     top:40%;
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
     font-size: 19px;
 }
   
     
 .trybe{
-    color:rgb(0, 83, 44);
+    color:rgb(0, 0, 0);
 }
 
     
@@ -85,11 +85,11 @@ header{
 }
 
 .titulo2{
-    color: rgb(0, 83, 44);
+    color: rgb(0, 0, 0);
 }
 
 .titulo1{
-    color: rgb(0, 83, 44);
+    color: rgb(0, 0, 0);
 }
 
 .minha_image{
