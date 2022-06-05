@@ -1,0 +1,84 @@
+* {
+    margin: 0;
+    padding: 0;
+
+
+}
+body { 
+    background-image: url(pixel-jeff-clipa-s.gif);
+    margin: 0;
+
+  
+}
+
+.color {
+    border: 1px solid rgb(255, 255, 255);
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+
+}
+.black {
+    background-color: rgb(2, 1, 59);
+}
+
+.red {
+    background-color: rgb(111, 0, 255);
+}
+
+.blue {
+    background-color: rgb(0, 195, 255);
+}
+
+.green {
+    background-color: rgb(255, 0, 234);
+}
+
+.pixel {
+    width: 50px;
+    height: 50px;
+    border: 1px solid black;
+    background-color: rgb(255, 255, 255);
+    display: inline-block;
+    
+    
+   
+}
+section {
+    position: absolute;
+    left: 40%;
+    top: 18%;
+    display:inline-block
+}
+#pixel-board {
+    height: 300px;
+    width: 300px;
+    
+}
+
+button {
+    background-color: rgb(110, 15, 156);
+   color: rgb(255, 255, 255);
+   
+}
+
+header 
+{
+    position: absolute;
+    width: 100%;
+    background-color: rgb(110, 15, 156);
+   display: flex;
+   align-items: center;
+   top: 0;
+   left:0;
+}
+
+img {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    position: relative;
+   
+
+}
